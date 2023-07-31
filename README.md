@@ -13,8 +13,6 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jadhavdurgesh" alt="jadhavdurgesh" /></a> </p>
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1T59IpU7xoXbwG9pnXmw74pVCd-PpvE14/view?usp=share_link](https://drive.google.com/file/d/1T59IpU7xoXbwG9pnXmw74pVCd-PpvE14/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
