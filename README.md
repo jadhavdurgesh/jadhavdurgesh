@@ -152,20 +152,20 @@
 <br />
 <br />
 
-[website]: https://sudeshnb.xyz
+<!-- [website]: https://sudeshnb.xyz -->
 [whatsapp]: https://wa.me/7217836820
 [mail]: https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvkXFgPlnbqWvNTVVtpCgpgmNpntTSctVHgdqlngkMnbsSVRSRdMRzPQJvZgTNcmLRTdfg
 [twitter]: https://twitter.com/sudesh78](https://twitter.com/intent/follow?screen_name=sudesh78
-[youtube]: https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg
+<!-- [youtube]: https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg -->
 [linkedin]: https://linkedin.com/in/jadhav-durgesh
-[github]: https://github.com/sudeshnb
+[github]: https://github.com/jadhavdurgesh
 [instagram]: https://www.instagram.com/durgesh_7498
-[facebook]: https://www.facebook.com/sudeshnb
+<!-- [facebook]: https://www.facebook.com/sudeshnb -->
 [medium]: https://medium.com/@sudeshnb
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
 [vscode]: https://code.visualstudio.com
 [firebase]: https://firebase.google.com
-[java]: https://www.java.com/en
+<!--  [java]: https://www.java.com/en -->
 [swift]: https://developer.apple.com/swift
-[kotlin]: https://kotlinlang.org
+<!-- [kotlin]: https://kotlinlang.org -->
