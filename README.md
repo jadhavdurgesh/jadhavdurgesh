@@ -13,8 +13,8 @@
     <img src="https://img.shields.io/github/followers/sudeshnb?logo=github&label=Github%20Followers&style=non" alt="sudeshnb" />
     <img src="https://img.shields.io/github/stars/sudeshnb?logo=github&label=Github%20Stars&style=non" alt="sudeshnb" />
 <!--     <img alt="followers" src="https://img.shields.io/github/followers/sudeshnb?label=Followers&style=social"> -->
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=non&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/sudeshnb" alt="sudeshnb" />
-    <img src="https://komarev.com/ghpvc/?username=sudeshnb&logo=github&color=brightgreen" alt="watching_count" />
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=non&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/jadhavdurgesh" alt="sudeshnb" />
+    <img src="https://komarev.com/ghpvc/?username=jadhavdurgesh&logo=github&color=brightgreen" alt="watching_count" />
     <img src="https://img.shields.io/badge/-CONNECT-blue?style=non&logo=Linkedin&link=https://www.linkedin.com/in/sudeshnb/" alt="sudeshnb" />
 </div>
 
