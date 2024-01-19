@@ -120,7 +120,7 @@
 </details>
 <details><summary><strong><h3>🏆 GitHub Trophies</h3></strong></summary>
  
-![](https://github-profile-trophy.vercel.app/?username=sudeshnb&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jadhavdurgesh&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 </details>
 
@@ -129,7 +129,7 @@
 ❤ Mobile app development in my blood ❤
 <br />
 <br />
-<img align="center" src = "https://profile-counter.glitch.me/sudeshnb/count.svg" alt ="Loading...">
+<img align="center" src = "https://profile-counter.glitch.me/jadhavdurgesh/count.svg" alt ="Loading...">
 </div>
 
 
@@ -153,13 +153,13 @@
 <br />
 
 [website]: https://sudeshnb.xyz
-[whatsapp]: https://wa.me/94741325674
+[whatsapp]: https://wa.me/7217836820
 [mail]: https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvkXFgPlnbqWvNTVVtpCgpgmNpntTSctVHgdqlngkMnbsSVRSRdMRzPQJvZgTNcmLRTdfg
 [twitter]: https://twitter.com/sudesh78](https://twitter.com/intent/follow?screen_name=sudesh78
 [youtube]: https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg
-[linkedin]: https://linkedin.com/in/sudeshnb
+[linkedin]: https://linkedin.com/in/jadhav-durgesh
 [github]: https://github.com/sudeshnb
-[instagram]: https://www.instagram.com/sudesh_nb
+[instagram]: https://www.instagram.com/durgesh_7498
 [facebook]: https://www.facebook.com/sudeshnb
 [medium]: https://medium.com/@sudeshnb
 [flutter]: https://flutter.dev
