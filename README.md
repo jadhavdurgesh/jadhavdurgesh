@@ -155,7 +155,7 @@
 <!-- [website]: https://sudeshnb.xyz -->
 [whatsapp]: https://wa.me/7217836820
 [mail]: https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvkXFgPlnbqWvNTVVtpCgpgmNpntTSctVHgdqlngkMnbsSVRSRdMRzPQJvZgTNcmLRTdfg
-[twitter]: https://twitter.com/sudesh78](https://twitter.com/intent/follow?screen_name=sudesh78
+[twitter]: https://twitter.com/Durgesh_Jadhav_](https://twitter.com/intent/follow?screen_name=Durgesh_Jadhav_
 <!-- [youtube]: https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg -->
 [linkedin]: https://linkedin.com/in/jadhav-durgesh
 [github]: https://github.com/jadhavdurgesh
