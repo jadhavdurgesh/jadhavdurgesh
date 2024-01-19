@@ -36,7 +36,8 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+<!--![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
 ![C# Badge](https://img.shields.io/badge/C%23-05122A?logo=csharp&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -45,17 +46,17 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![.NET Badge](https://img.shields.io/badge/.NET-05122A?logo=dotnet&style=flat)
-![Go Badge](https://img.shields.io/badge/Go-05122A?logo=go&style=flat)
+![Go Badge](https://img.shields.io/badge/Go-05122A?logo=go&style=flat) -->
 
 ##### Databases
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb&style=flat)
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-05122A?style=flat-square&logo=microsoft-azure)
 ![AWS Amplify Badge](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=awsamplify)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud) -->
 
 
 ##### Some of the technologies I have worked with
@@ -63,7 +64,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=laravel)
+<!-- ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=laravel)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)
@@ -72,7 +73,7 @@
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-05122A?logo=apachekafka&style=flat)
+![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-05122A?logo=apachekafka&style=flat) -->
 
 <br/>
 
@@ -89,16 +90,16 @@
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=sudeshnb&show_icons=true&locale=en" alt="sudeshnb" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadhavdurgesh&show_icons=true&locale=en" alt="sudeshnb" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeshnb&" alt="sudeshnb" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavdurgesh&" alt="sudeshnb" />
     </td>
    </tr>
  <tr>
     <td>
-      <a href="https://github.com/sudeshnb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshnb&theme=light&hide_langs_below=1" />
+      <a href="https://github.com/jadhavdurgesh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavdurgesh&theme=light&hide_langs_below=1" />
 </a>
     </td>
     
