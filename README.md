@@ -146,7 +146,7 @@
 [<img align="left" alt="Durgesh_Jadhav_ | LinkedIn" src="https://img.shields.io/twitter/follow/Durgesh_Jadhav_?style=social&logo=X" />][twitter]
 [<img align="left" alt="Msudeshnb | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
 <!--  [<img align="left" alt="sudeshnb | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook] -->
-[<img align="left" alt="sudeshnb | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
+[<img align="left" alt="jadhavdurgesh | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 [<img align="left" alt="sudeshnb | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
 
 <br />
@@ -161,7 +161,7 @@
 [github]: https://github.com/jadhavdurgesh
 [instagram]: https://www.instagram.com/durgesh_7498
 <!-- [facebook]: https://www.facebook.com/sudeshnb -->
-[medium]: https://medium.com/@sudeshnb
+[medium]: https://medium.com/@jadhavdurgesh007
 [flutter]: https://flutter.dev
 [dart]: https://dart.dev
 [vscode]: https://code.visualstudio.com
