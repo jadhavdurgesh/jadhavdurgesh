@@ -10,10 +10,10 @@
 
 <br>
 <div align="center" class="row">
-    <img src="https://img.shields.io/github/followers/jadhavdurgesh?logo=github&label=Github%20Followers&style=non" alt="sudeshnb" />
-    <img src="https://img.shields.io/github/stars/jadhavdurgesh?logo=github&label=Github%20Stars&style=non" alt="sudeshnb" />
+    <img src="https://img.shields.io/github/followers/jadhavdurgesh?logo=github&label=Github%20Followers&style=non" alt="jadhavdurgesh" />
+    <img src="https://img.shields.io/github/stars/jadhavdurgesh?logo=github&label=Github%20Stars&style=non" alt="jadhavdurgesh" />
 <!--     <img alt="followers" src="https://img.shields.io/github/followers/sudeshnb?label=Followers&style=social"> -->
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=non&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/jadhavdurgesh" alt="sudeshnb" />
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Github%20Forks&style=non&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/jadhavdurgesh" alt="jadhavdurgesh" />
     <img src="https://komarev.com/ghpvc/?username=jadhavdurgesh&logo=github&color=brightgreen" alt="watching_count" />
     <img src="https://img.shields.io/badge/-CONNECT-blue?style=non&logo=Linkedin&link=https://www.linkedin.com/in/jadhav-durgesh/" alt="jadhavdurgesh" />
 </div>
@@ -37,6 +37,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 <!--![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
 ![C# Badge](https://img.shields.io/badge/C%23-05122A?logo=csharp&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
@@ -90,10 +91,10 @@
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadhavdurgesh&show_icons=true&locale=en" alt="sudeshnb" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jadhavdurgesh&show_icons=true&locale=en" alt="jadhavdurgesh" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavdurgesh&" alt="sudeshnb" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavdurgesh&" alt="jadhavdurgesh" />
     </td>
    </tr>
  <tr>
@@ -140,11 +141,11 @@
 
  
 <!--  [<img align="left" alt="sudeshnb | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website] -->
-[<img align="left" alt="sudeshnb | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
+[<img align="left" alt="jadhavdurgesh | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />][mail]
 <!--  [<img align="left" alt="sudeshnb | YouTube" width="28px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][youtube] -->
-[<img align="left" alt="sudeshnb | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
+[<img align="left" alt="jadhavdurgesh | LinkedIn" width="28px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />][linkedin]
 [<img align="left" alt="Durgesh_Jadhav_ | LinkedIn" src="https://img.shields.io/twitter/follow/Durgesh_Jadhav_?style=social&logo=X" />][twitter]
-[<img align="left" alt="Msudeshnb | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
+[<img align="left" alt="jadhavdurgesh | Instagram" width="28px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />][instagram]
 <!--  [<img align="left" alt="sudeshnb | Facebook" width="28px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />][facebook] -->
 [<img align="left" alt="jadhavdurgesh | Medium" width="28px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />][medium]
 [<img align="left" alt="sudeshnb | Gmail" width="28px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" />][whatsapp]
