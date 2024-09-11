@@ -53,8 +53,8 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-05122A?logo=mongodb&style=flat)
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-05122A?style=flat-square&logo=microsoft-azure)
 ![AWS Amplify Badge](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=awsamplify)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud) -->
@@ -65,8 +65,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-<!-- ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=laravel)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)
+<!-- ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=laravel)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
