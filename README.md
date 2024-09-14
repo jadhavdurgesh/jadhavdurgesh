@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm <a href="https://sudeshnb.xyz"> Jadhav Durgesh.</a> 💪</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, I'm <a href="https://jadhavdurgesh.vercel.app/"> Jadhav Durgesh.</a> 💪</h1>
 <br>
 <h3 align="center">Mobile App Developer | Online Entrepreneur | Data Analysis Enthusiast</h3>
 <h4 align="center"> I am a mobile app developer using FLUTTER. The junior full-stack developer who's been doing this stuff for over 2 years.</h4>
