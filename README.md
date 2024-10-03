@@ -23,7 +23,7 @@
 
 
 <ul  >
-    <li >🔭 I am a self-taught Full Stack Developer and a Machine Learning Developer.</li>
+    <li >🔭 I am a self-taught Full Stack Developer.</li>
     <li>🌱 Interested in Full Stack Mobile Application development.</li>
     <li>🧑 I'm currently working with Flutter, Swift & more ❤️</li>
 </ul>
